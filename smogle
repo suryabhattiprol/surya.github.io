@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.right {
+  float:right; 
+
+}
+
+.left {
+  float:left;
+}
+
+.google{
+  text-align:center; 
+  
+}
+
+.g1{ 
+  color:blue;
+ font-size:70px; 
+  
+  }
+
+.o1{
+  color:red;
+  font-size:70px;
+}
+
+.o2{
+  color:yellow;
+  font-size:70px;
+}
+
+.g2{
+  color:blue;
+  font-size:70px;
+}
+
+.l{
+  color:green;
+  font-size:70px;
+}
+
+.e{
+  color:red;
+  font-size:70px;
+}
+
+.searchBox{
+  text-align:center;
+  
+}
+input[type=text] {
+  width: 30%;
+  padding: 10px 18px;
+  box-sizing: border-box;
+  border-radius: 300px;
+}
+
+button {
+ padding: 10px;
+ border-radius: 3px;
+ background-color: lightgrey;
+ 
+}
+
+.Bottom{
+  background-color: lightgrey;
+  padding: 10px;  
+}
+
+.BottomRight{
+  float:right;
+}
+
+
+
+
+
+
+
+</style>
+</head>
+
+<body>
+
+<p class="right">
+  <a href="">S-mail</a>
+  <a href="">Images</a>
+ 
+</p>
+
+<p class="left">
+  <a href="">About</a>
+  <a href="">Store</a>
+</p>
+
+<br>
+<br>
+
+
+<p class="Smogle">
+<span class="g1">S</span>
+<span class="o1">m</span>
+  <span class="o2">o</span>
+  <span class="g2">g</span>
+  <span class="l">l</span>
+  <span class="e">e</span>
+</p>
+  
+
+<p class="searchBox"> 
+  
+  <input type="text" width="50%" id="search"
+         
+</p>
+  
+  <br>
+  <br>
+  
+  <button>Smogle Search</button>
+  <button>I'm Feeling Lucky</button>
+  
+  <br>
+  <br>
+  <a href="">Helpful tips to avoid COVID-19 online scams</a>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  
+
+<p class="Bottom">
+     <a href="">Advertising</a>&nbsp;&nbsp;
+    <a href="">Business</a>&nbsp;&nbsp;
+    <a href="">How Search Works</a>
+    
+  <span class="BottomRight">
+    <a href="">Privacy</a>&nbsp;&nbsp;
+    <a href="">Terms</a>&nbsp;&nbsp;
+    <a href="">Settings</a>&nbsp;&nbsp;
+</span>
+  </p>
+</body>
+ </html>
